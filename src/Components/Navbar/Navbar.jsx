@@ -11,7 +11,7 @@ const Navbar = () => {
     return (
         <nav className="flex justify-between p-4">
             <ul className="flex gap-4">
-                <img src="/public/images/logo.svg" />
+                <img src="/images/logo.svg" />
                 <span><b>Biswajit's Portfolio</b></span>
                 {navLinks.map((it, index) => {
                     const isOpen = window[it.type]?.isOpen;

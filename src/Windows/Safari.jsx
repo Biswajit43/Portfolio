@@ -39,7 +39,7 @@ const Safari = () => {
             return (
               <div key={id} className='blog-post'>
                 <div className="col-span-2">
-                  <img src={`public/${image}`} alt={title} />
+                  <img src={image}  alt={title} />
                 </div>
                 <div className='content'>
                   <h2>{`Date : ${date}`}</h2>
