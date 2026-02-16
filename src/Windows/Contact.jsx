@@ -16,7 +16,7 @@ const Contact = () => {
                 <div className="mb-8">
                     <img
                         className='rounded-full w-32 h-32 object-cover shadow-lg border-4 border-purple-500'
-                        src='public/images/Biswajit_1.jpg'
+                        src='/images/Biswajit_1.jpg'
                         alt='Biswajit'
                     />
                 </div>
