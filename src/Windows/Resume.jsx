@@ -23,7 +23,7 @@ const Resume = () => {
         <Windowcontrol target="resume" />
         <h2>Resume download</h2>
         <a
-          href="/files/resume.pdf"
+          // href="/files/resume.pdf"
           download
           title="Download resume"
           className="cursor-pointer"
