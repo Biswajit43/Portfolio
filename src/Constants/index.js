@@ -450,7 +450,7 @@ const ABOUT_LOCATION = {
       kind: "file",
       fileType: "img",
       position: "top-10 left-30",
-      imageUrl: "/images/Biswajit_2.jpg",
+      // imageUrl: "/images/Biswajit_2.jpg",
     },
     {
       id: 4,
@@ -460,7 +460,7 @@ const ABOUT_LOCATION = {
       fileType: "txt",
       position: "top-10 left-60",
       subtitle: "Meet the Developer Behind the Code",
-      image: "/images/Biswajit_1.jpg",
+      // image: "/images/Biswajit_1.jpg",
       description: [
         "Hey! I’m Biswajit 👋, a web developer who enjoys building sleek , interactive websites that actually work well.",
         "I specialize in JavaScript, React, and Next.js—and I love making things feel smooth, fast, and just a little bit delightful.",
