@@ -31,7 +31,7 @@ const Safari = () => {
         </div>
       </div>
 
-      
+
       <div className="blog">
         <h2>MY blog and Website</h2>
         <div className='space-y-2'>
@@ -39,13 +39,13 @@ const Safari = () => {
             return (
               <div key={id} className='blog-post'>
                 <div className="col-span-2">
-                  <img src={image}  alt={title} />
+                  <img src={image} alt={title} />
                 </div>
                 <div className='content'>
                   <h2>{`Date : ${date}`}</h2>
                   <p>{`Title : ${title}`}</p>
                   <a href={link} target='blank' rel='noopener noreferer'>click here</a>
-                  <MoveRight className='icon-hover'/>
+                  <MoveRight className='icon-hover' />
                 </div>
               </div>
             );

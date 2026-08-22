@@ -127,13 +127,13 @@ const socials = [
     bg: "#ff866b",
     link: "https://x.com/Biswajit__Bera",
   },
-  {
-    id: 4,
-    text: "LinkedIn",
-    icon: "/icons/linkedin.svg",
-    bg: "#05b6f6",
-    link: "https://www.linkedin.com/in/biswajit-bera/",
-  },
+  // {
+  //   id: 4,
+  //   text: "LinkedIn",
+  //   icon: "/icons/linkedin.svg",
+  //   bg: "#05b6f6",
+  //   link: "https://www.linkedin.com/in/biswajit-bera/",
+  // },
 ];
 
 const photosLinks = [
@@ -165,22 +165,22 @@ const photosLinks = [
 ];
 
 const gallery = [
-  {
-    id: 1,
-    img: "/images/Biswajit_1.jpg",
-  },
+  // {
+  //   id: 1,
+  //   img: "/images/Biswajit_1.jpg",
+  // },
   {
     id: 2,
     img: "/images/react.png",
   },
-  {
-    id: 3,
-    img: "/images/Biswajit_2.jpg",
-  },
-  {
-    id: 4,
-    img: "/images/Hackathon.jpg",
-  },
+  // {
+  //   id: 3,
+  //   img: "/images/Biswajit_2.jpg",
+  // },
+  // {
+  //   id: 4,
+  //   img: "/images/Hackathon.jpg",
+  // },
 ];
 
 export {
