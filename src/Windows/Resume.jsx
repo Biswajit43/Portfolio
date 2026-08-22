@@ -33,7 +33,7 @@ const Resume = () => {
       </div>
 
       {/* SCROLL AREA */}
-      <div className="flex-1 overflow-y-auto">
+      {/* <div className="flex-1 overflow-y-auto">
         <div className="flex flex-col items-center gap-4 p-4">
           <Document
             file="/files/updated resume.pdf"
@@ -50,7 +50,7 @@ const Resume = () => {
             ))}
           </Document>
         </div>
-      </div>
+      </div> */}
 
     </div>
   );
